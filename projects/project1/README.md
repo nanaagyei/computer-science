@@ -20,8 +20,8 @@ A Python-based calculator application with a graphical user interface built usin
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/nanaagyei/advanced-calculator.git
-   cd advanced-calculator
+   git clone https://github.com/nanaagyei/computer-science.git
+   cd projects/project1
    ```
 
 2. No additional dependencies needed as tkinter comes with Python!
